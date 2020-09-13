@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.example.calc.test
+Bundle-Name: Calculator Test
+Bundle-Version: 0.1.0.202009131911
+Require-Bundle: org.junit;bundle-version="[4.3.0,5.0.0)";resolution:=o
+ ptional
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.eclipse.example.calc.internal;version="[0.1.0,0.2.
+ 0)"
+Fragment-Host: org.eclipse.example.calc;bundle-version="[0.1.0,0.2.0)"
+

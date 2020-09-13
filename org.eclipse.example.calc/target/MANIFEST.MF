@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.example.calc
+Export-Package: org.eclipse.example.calc;version="0.1.0",org.eclipse.e
+ xample.calc.internal;version="0.1.0";x-internal:=true,org.eclipse.exa
+ mple.calc.internal.operations;version="0.1.0";x-internal:=true,org.ec
+ lipse.example.calc.internal.ui.swing;version="0.1.0";x-internal:=true
+ ,org.eclipse.example.calc.internal.ui.swt;version="0.1.0";x-internal:
+ =true
+Bundle-Name: Calculator
+Bundle-Version: 0.1.0.202009131911
+Require-Bundle: org.eclipse.swt;bundle-version="[3.5.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

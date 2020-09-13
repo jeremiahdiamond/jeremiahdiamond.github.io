@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: org.eclipse.example.calc.internal.operations.EqualsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec - in org.eclipse.example.calc.internal.operations.EqualsTest
+testGetName(org.eclipse.example.calc.internal.operations.EqualsTest)  Time elapsed: 0 sec

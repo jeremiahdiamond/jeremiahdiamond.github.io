@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: org.eclipse.example.calc.internal.operations.MinusTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec - in org.eclipse.example.calc.internal.operations.MinusTest
+testPerform(org.eclipse.example.calc.internal.operations.MinusTest)  Time elapsed: 0 sec
+testGetName(org.eclipse.example.calc.internal.operations.MinusTest)  Time elapsed: 0 sec

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.eclipse.example.calc.internal.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 sec - in org.eclipse.example.calc.internal.CalculatorTest
+testPlus(org.eclipse.example.calc.internal.CalculatorTest)  Time elapsed: 0.004 sec
+testPlusWithFraction(org.eclipse.example.calc.internal.CalculatorTest)  Time elapsed: 0 sec
+testTwoTimesPlus(org.eclipse.example.calc.internal.CalculatorTest)  Time elapsed: 0 sec
+testSquare(org.eclipse.example.calc.internal.CalculatorTest)  Time elapsed: 0 sec

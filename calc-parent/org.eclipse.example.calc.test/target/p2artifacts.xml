@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.example.calc.test' version='0.1.0.202009131911'>
+    <properties size='5'>
+      <property name='artifact.size' value='10059'/>
+      <property name='download.size' value='10059'/>
+      <property name='maven-groupId' value='org.eclipse.example.calc'/>
+      <property name='maven-artifactId' value='org.eclipse.example.calc.test'/>
+      <property name='maven-version' value='0.1.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>
